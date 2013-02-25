@@ -1,6 +1,11 @@
 *********************
 SFML SNAKE README
 
+TO COMPILE: Simply type MAKE in a command window so long
+as the requirements are met.
+
+A Windows binary is also included (Win32 IIRC).
+
 Just a "stream of conciousness" quickly bashed-out
 implementation of Snake in C++ using SFML.
 
